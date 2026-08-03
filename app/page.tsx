@@ -98,14 +98,14 @@ export default function Home() {
           <ul>
             <li>Create a high-impact LinkedIn post every day, without missing days, and stay in front of your audience (requires zero creativity or previous experience)</li>
             <li>Compress your entire content process into less time than it takes to drink your first cup of coffee</li>
-            <li>Find useful post ideas inside your normal work, conversations, experiences, and opinions.</li>
-            <li>Understand why some posts should attract a broad audience while others should speak directly to potential buyers.</li>
+            <li>Find useful post ideas inside your normal work, conversations, experiences, and opinions</li>
+            <li>Understand why some posts should attract a broad audience while others should speak directly to potential buyers</li>
             <li>Write clear, contextual hooks without memorizing dozens of formulas.</li>
-            <li>Turn one useful thought into a complete post without staring at a blank screen.</li>
-            <li>Add your experience, judgment, and point of view that makes any post worth reading.</li>
-            <li>Stop spending 45 to 60 minutes polishing something that should take five.</li>
-            <li>Use AI to mine transcripts, documents, notes, and recordings without allowing it to invent facts or erase your voice.</li>
-            <li>Get off the sidelines and build a personal brand without reorganizing your life around creating content.</li>
+            <li>Turn one useful thought into a complete post without staring at a blank screen</li>
+            <li>Add your experience, judgment, and point of view that makes any post worth reading</li>
+            <li>Stop spending 45 to 60 minutes polishing something that should take five</li>
+            <li>Use AI to mine transcripts, documents, notes, and recordings without allowing it to invent facts or erase your voice</li>
+            <li>Get off the sidelines and build a personal brand without reorganizing your life around creating content</li>
           </ul>
 
           <p>If you’ve been struggling to stay consistent, you know you need to be building on LinkedIn, and you have the willpower to “lock in” for 5 measly minutes?</p>
@@ -132,7 +132,7 @@ export default function Home() {
 
           <p>This all sounds great during your late night doomscroll, but somehow fails to help you create more content when you’re sitting at the computer in the morning.</p>
 
-          <p>See, most courses add more frameworks to remember. More prompt libraries replace the blank page with hundreds of choices. More trends to keep up with.</p>
+          <p>See, most courses add more frameworks to remember. More prompt libraries. More ways to ninja chop the algo. More trends to keep up with.</p>
 
           <p>More, more, more!</p>
 
